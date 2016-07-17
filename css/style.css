@@ -1,0 +1,23 @@
+   td , th{
+    border: 1px solid #ccc;
+    font-size: 4em;
+    padding: 15px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    width: 100px;
+    height: 100px;
+}
+table {
+    border-collapse: collapse;
+    margin:auto;
+}
+
+.jogador1, .jogador2{
+    display: none;
+}
+
+.prala {
+    width:30%;
+    padding:20px;
+    margin:auto;
+}
